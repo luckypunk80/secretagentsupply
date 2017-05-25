@@ -1,0 +1,31 @@
+html {font-size: 18px;}
+
+.headcon {
+  background-color: black;
+  height: 2.32rem;
+}
+
+.head {
+  display:flex;
+  width: 960px;
+  justify-content:flex-start;
+  margin-left: 200px;
+}
+
+.head img {
+  height: 1.5rem;
+  margin: 0.4rem 1rem 0 0.5rem;
+}
+
+  .head p{
+  font-family: Helvetica;
+  font-size: 1rem;
+  margin: 0.66rem 0;
+  color: white;
+}
+
+
+.mainbanner {
+  background: url(../images/moto.jpeg) no-repeat center center;
+  height: 25rem;
+}
