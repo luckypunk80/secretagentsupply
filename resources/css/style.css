@@ -66,7 +66,8 @@ html {font-size: 18px;
 
 nav{
   background-color: firebrick;
-  /*display: flex;*/
+  /*display: flex;
+  justify-content:center;*/
 }
 
 .redcontainer {
@@ -74,14 +75,14 @@ nav{
   margin: 0 auto;
   /*height: 2.5rem;*/
   /*display:flex;
-  justify-content: center;*/
+  justify-content:space-between;*/
 }
 
 .menu {
   border: 1px solid yellow;
   padding: 0.75rem 0;
-  justify-content:space-between;
   align-items: center;
+  justify-content:space-between;
 }
 
 .menu a{
