@@ -20,7 +20,7 @@ html {font-size: 18px;
   margin: 0.4rem 1rem 0 0.5rem;
 }
 
-  .head p{
+.head p{
   font-family: Helvetica;
   font-size: 1rem;
   margin: 0.66rem 0;
@@ -35,13 +35,12 @@ html {font-size: 18px;
   background-position: center;
   height: 25rem;
   padding-top: 2.32rem;
-  /*display: flex;
-  justify-content:space-around;*/
 }
 
 .blackcontainer{
   width: 960px;
   margin: 0 auto;
+  border: 1px solid blue;
 }
 
 .blackbanner {
@@ -49,19 +48,44 @@ html {font-size: 18px;
   width: 20rem;
   color: white;
   margin-top: 9rem;
-  position: relative;
+  /*position: relative;*/
   padding: 2rem 3rem;
 }
 
 .blackbanner h4 {
   font-weight: bold;
-  /*padding-top: 2rem;
-  padding-left: 3rem;*/
 }
+
 .blackbanner h1{
   padding-top: 0.25rem;
   font-weight: bold;
   font-size: 2rem;
-  /*padding-left: 3rem;*/
   margin: 0.25rem 0;
+}
+
+
+nav{
+  background-color: firebrick;
+  /*display: flex;*/
+}
+
+.redcontainer {
+  width: 960px;
+  margin: 0 auto;
+  /*height: 2.5rem;*/
+  /*display:flex;
+  justify-content: center;*/
+}
+
+.menu {
+  border: 1px solid yellow;
+  padding: 0.75rem 0;
+  justify-content:space-between;
+  align-items: center;
+}
+
+.menu a{
+  color: white;
+  /*justify-content: space-between;*/
+  text-decoration: none;
 }
