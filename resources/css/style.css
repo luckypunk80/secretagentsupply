@@ -103,27 +103,25 @@ nav{
 .penspace {
   width: 30%;
   border: 4px solid black;
-  display: block;
+  /*display: block;*/
 }
 
 .watchspace {
   width: 30%;
   border: 4px solid black;
-  display: block;
+  /*display: block;*/
 }
 
 .glassspace {
   width: 30%;
   border: 4px solid black;
-  display: block;
+  /*display: block;*/
+  padding: 2rem 0 0 0;
 }
-
-
 
 .specs {
   max-width: 9rem;
-  /*height: auto;*/
-  /* height: 9rem;*/
+  /*height: 162px;*/
   padding: 2rem 3.5rem;
   /*display: flex;
   justify-content: center;*/
