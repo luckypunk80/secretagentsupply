@@ -136,3 +136,24 @@ nav{
   text-align: center;
   color: white;
 }
+
+.infocontainer {
+  width: 960px;
+  margin:0 auto;
+}
+
+.lhcontainer {
+  display: flex;
+  justify-content: space-between;
+  /*border: 1px solid green;*/
+}
+
+.lochours {
+  width: 35%;
+}
+
+.loctime {
+  color: white;
+  background-color: black;
+  padding:1rem 0 1rem 2rem;
+}
