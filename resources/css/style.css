@@ -157,3 +157,15 @@ nav{
   background-color: black;
   padding:1rem 0 1rem 2rem;
 }
+
+footer {
+  background-color: black;
+  margin-top: 4rem;
+  color: white;
+  padding:5rem;
+}
+
+.footprint {
+  width:960px;
+  margin: 0 auto;
+}
